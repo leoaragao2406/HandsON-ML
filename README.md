@@ -1,4 +1,4 @@
-#Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow — Study Repository
+# Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow — Study Repository
 
 This repository contains my notes, code exercises, and projects based on the book "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron. The book provides a practical, hands-on approach to learning machine learning and deep learning using Python's most popular frameworks.
 
