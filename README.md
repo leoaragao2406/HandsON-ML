@@ -9,7 +9,5 @@ Practical Tools: Scikit-Learn for traditional ML, Keras and TensorFlow for deep 
 
 End-to-End ML Projects: From data preprocessing and model training to evaluation and deployment.
 
-Advanced Topics: CNNs, RNNs, NLP, GANs, and reinforcement learning (depending on the edition).
-
 🛠️ This repository is meant to document my learning progress and serve as a reference for others following along with the book.
 
